@@ -1,0 +1,25 @@
+{
+  "name": "vue-button-best",
+  "version": "0.0.1",
+  "description": "vue button plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxlasting/vue-button-best.git"
+  },
+  "keywords": [
+    "vue",
+    "button",
+    "best",
+    "fq"
+  ],
+  "author": "付强",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxlasting/vue-button-best/issues"
+  },
+  "homepage": "https://github.com/Maxlasting/vue-button-best#readme"
+}
